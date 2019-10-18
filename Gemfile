@@ -44,7 +44,7 @@ gem 'administrate', '0.1.5'
 
 gem 'sinatra', '1.1.4'
 gem 'festivaltts4r', '0.2.0'
-gem 'spree', '3.1.0rc1'
+#gem 'spree', '3.1.0rc1'
 #gem 'spree', '3.1.0'
 #gem 'spree', '3.4.0'
 #gem 'spree', '3.1.11'
